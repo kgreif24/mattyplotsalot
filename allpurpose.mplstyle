@@ -9,9 +9,7 @@
 font.family: serif
 
 # Default color cycler for simple plotting
-axes.prop_cycle : cycler('color', ['80b1d3', 'fb8072', 'bebada', '8dd3c7', 'b3de69', 'fdb462'])
+axes.prop_cycle: cycler('color', ['fb8072', '80b1d3', 'bebada', '8dd3c7', 'b3de69', 'fdb462'])
 
 # Histograms
-
-
-
+hist.bins: 100
