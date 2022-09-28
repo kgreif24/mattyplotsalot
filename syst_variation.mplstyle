@@ -1,0 +1,14 @@
+# syst_variation.mplstyle - For systematic variation plots
+
+# Author: Kevin Greif
+# 9/28/22
+
+
+# Fonts
+font.family: serif
+
+# Default color cycler for simple plotting
+axes.prop_cycle: cycler('color', ['2caa17', 'fdbe12', '38b9fa'])
+
+# Histograms
+hist.bins: 100
